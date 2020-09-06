@@ -11,7 +11,7 @@ influx_db = {
     'port': '8086',
     'user': 'root',
     'pass': 'root',
-    'db'  : 'exatest'
+    'db'  : 'pyexamon'
 }
 
 # Exasol DB(s) connection
