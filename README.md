@@ -20,7 +20,7 @@ pyexamon
 ```
 
 
-##System requirements (tested with)
+## System requirements (tested with)
 Exasol >= 6
 Python >= 3.6
 pyexasol >= 0.14.1
