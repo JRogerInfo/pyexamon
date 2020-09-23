@@ -3,7 +3,7 @@ pyExaMon is custom python script loads monitoring data from Exasol Database to I
 
 ###### Please note that this is an open source project which is *not officially supported* by EXASOL.
 
-Create InfluxDb manually before using this script.
+Create InfluxDb database manually before using this script.
 
 
 ```
@@ -37,8 +37,5 @@ User sessions count
 
 Idle sessions count
 
-Add short in-picture manual how to add panel to the dashboard
+Add short in-picture manual how to configure Exasol DB and how to create Grafana dashboard with panels.
 
-
-## Created by
-Vladimir Gerasimov, 2020
